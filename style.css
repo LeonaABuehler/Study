@@ -1,15 +1,16 @@
 body{
-	font-family:Helvetica
+	font-family:Helvetica;
+	background: lightcyan;
 }
 h1{
 	
 }
 img{
-	width:300px
+	width:300px;
 }
 iframe{
-	width:500px
+	width:500px;
 }
 button{
-	border-radius:15px
+	border-radius:15px;
 }
